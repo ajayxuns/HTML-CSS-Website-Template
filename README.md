@@ -1,34 +1,50 @@
-# Ace - Photography Website Template
+<div align="center">
 
-**Ace** is a modern, creative photography-themed website template designed for showcasing photography portfolios, services, and contact information. This template is built using HTML, CSS, JavaScript, and Bootstrap, with custom fonts for a polished look.
+# 🌐 HTML • CSS • JavaScript Website Templates
 
-## Features
+A curated vault of modern, fully responsive, and production-ready web templates. Built with clean code, smooth interactions, and multi-device adaptability out of the box.
 
-- **Responsive Design**: Looks great on desktop, tablet, and mobile devices.
-- **Clean Layout**: Minimalistic and professional design focused on photography.
-- **Interactive Elements**: Smooth transitions and animations powered by JavaScript and Bootstrap.
-- **Navigation**: Easy-to-navigate menu with links to essential sections.
-- **Contact and About Buttons**: Direct access to the Contact and About sections.
-- **Gallery Section**: A grid layout for showcasing photography samples.
+[![Stars](https://img.shields.io/github/stars/ajayxuns/HTML-CSS-Website-Template?style=for-the-badge&color=FFE600)](https://github.com/ajayxuns/HTML-CSS-Website-Template/stargazers)
+[![Forks](https://img.shields.io/github/forks/ajayxuns/HTML-CSS-Website-Template?style=for-the-badge&color=white)](https://github.com/ajayxuns/HTML-CSS-Website-Template/network/members)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 
-## Technologies Used
+---
 
-- **HTML**: Structure of the website
-- **CSS**: Styling, including custom fonts
-- **JavaScript**: Interactive features
-- **Bootstrap**: Layout and responsive design
+</div>
 
-## Getting Started
+## ⚡ Highlights
 
-### Prerequisites
+* **100% Responsive:** Optimized layouts for smartphones, tablets, laptops, and ultra-wide screens.
+* **Pure Web Tech:** Handcrafted using vanilla **HTML5**, modern **CSS3** (Flexbox/Grid), and **JavaScript**—zero bloat, zero unnecessary dependencies.
+* **Modular Structure:** Drop-in ready pages, components, and assets configured for immediate deployment.
+* **Cross-Browser Compatible:** Tested and confirmed seamless across Chrome, Firefox, Safari, and Edge.
 
-To run this template locally, you'll need a code editor like [VS Code](https://code.visualstudio.com/) and a web browser.
+---
 
-### Installation
+## 📂 Template Directory
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/ajay-bankar07/HTML-CSS-Website-Template.git
+| Template Directory | Category / Concept | Features |
+| :--- | :--- | :--- |
+| `Augustine` | Digital Designer & Dev Portfolio | Minimalist layout, modern typography, case study grids |
+| `Nomad Force` | Agency / Creative Business | Landing page hero, service cards, smooth scrolling |
+| `ace` | Photography Showcase | Lightbox galleries, visual-first storytelling, fullscreen grids |
+| `photozone-1.0.0` | Studio & Media Portfolio | Dynamic filtering, media sliders, client galleries |
+| `Andrea` | Personal Brand / Resume | Bio overview, experience timelines, skill progress bars |
+| `updated 1` (Monica) | Creative Portfolio / Blog | Clean blog feed, split-screen layouts |
+| `updated 2` (Nimo) | Business / Startup | Metric counters, call-to-action sections, pricing tables |
+| `updated 3` (Painto) | Creative & Art Showcase | Bold color palettes, asymmetric layouts |
+| `updated 4` (Public) | Multi-Purpose Landing Page | Lead capture forms, product features, testimonial grids |
+| `updated 5` (Spurgeon) | Modern Portfolio | Clean editorial style, subtle hover micro-interactions |
+| `updated 6` (Vintagefur) | E-commerce / Boutique | Product cards, category banners, lookbook elements |
+| `updated 7` (Sided Master) | Dashboard / Sidebar Portfolio | Sticky side-navigation, off-canvas menu, content panels |
+| `updated 8` (FestavaLive) | Event / Music Festival | Schedule timeline, lineup showcase, ticket integration UI |
 
-# Author
-https://github.com/ajay-bankar07
+---
+
+## 🚀 Getting Started
+
+Clone the repository directly to your machine:
+
+```bash
+git clone (https://github.com/ajayxuns/HTML-CSS-Website-Template.git)
+cd HTML-CSS-Website-Template
